@@ -1,0 +1,1 @@
+from .moea_NSGA2_templet import moea_NSGA2_templet
